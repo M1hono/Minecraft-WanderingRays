@@ -4,3 +4,8 @@
 /server-resource-packs/
 /.probejs
 /mods/.index
+/natives-windows-x86_64
+Wandering Ray.jar
+Wandering Ray.json
+hmclversion.cfg
+log4j2.xml
