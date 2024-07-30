@@ -4,3 +4,4 @@
 /server-resource-packs/
 /.probejs
 /mods/.index
+.vscode/settings.json
