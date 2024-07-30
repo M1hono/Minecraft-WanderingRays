@@ -5,3 +5,8 @@
 /.probejs
 /mods/.index
 .vscode/settings.json
+/natives-windows-x86_64
+Wandering Ray.jar
+Wandering Ray.json
+hmclversion.cfg
+log4j2.xml
